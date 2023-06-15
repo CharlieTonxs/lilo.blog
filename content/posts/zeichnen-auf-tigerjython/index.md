@@ -3,6 +3,7 @@ title = "Zeichnen Auf TigerJython"
 date = "2023-06-15"
 draft = false
 pinned = false
+image = "img_0368.jpeg"
 +++
 **Zeichnen auf TigerJython**
 
